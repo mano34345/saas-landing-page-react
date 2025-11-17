@@ -1,5 +1,3 @@
-# saas-landing-page-react
-Portfolio-ready SaaS Landing Page built with React, featuring interactive components, responsive design, and modern UI/UX.
 # SaaS Landing Page (React)
 
 A **professional, portfolio-ready SaaS Landing Page** built with React. This project showcases a fictional SaaS product with **interactive components**, modern **UI/UX design**, and fully **responsive layout**. It is built in **Blackbox mode (frontend-only)** for portfolio purposes.
